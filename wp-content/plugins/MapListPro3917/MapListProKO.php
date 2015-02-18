@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Map List Pro (shared on wplocker.com)
+Plugin Name: Map List Pro
 Version: 3.9.17
 Description: Create interactive maps and lists of locations quickly and easily.
 Author: SmartRedFox
