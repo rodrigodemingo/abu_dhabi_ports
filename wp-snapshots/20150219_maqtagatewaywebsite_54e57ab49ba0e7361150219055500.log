@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-02-19 05:55:50
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.12
+WORDPRESS:	4.1
+PHP INFO:	5.5.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.9 (Win64) PHP/5.5.12 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 55.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Not Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:21 | filtered:0 | create:21 
+FILTERED: [] 
+SQL CREATED: 20150219_maqtagatewaywebsite_54e57ab49ba0e7361150219055500_database.sql 
+SQL FILE SIZE: 887.69KB 
+SQL FILE TIME: 2015-02-19 05:55:50 
+SQL RUNTIME: 0.21 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/wamp/www/abu_dhabi_ports 
+ARCHIVE FILE: 20150219_maqtagatewaywebsite_54e57ab49ba0e7361150219055500_archive.zip 
+FILTERS: *ON* 
+DIRS:  C:/wamp/www/abu_dhabi_ports/.git;C:/wamp/www/abu_dhabi_ports/wp-content/uploads; 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	87.58MB 
+STATS:	Dirs 849 | Files 6,520 | Links 0 
+SQL ADDED: 20150219_maqtagatewaywebsite_54e57ab49ba0e7361150219055500_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7369
+    [filename] => C:\wamp\www\abu_dhabi_ports\wp-snapshots\tmp\20150219_maqtagatewaywebsite_54e57ab49ba0e7361150219055500_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 36.52MB 
+ARCHIVE RUNTIME: 19.66 sec. 
+MEMORY STACK: 58MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/wamp/www/abu_dhabi_ports/wp-snapshots/tmp/20150219_maqtagatewaywebsite_54e57ab49ba0e7361150219055500_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 887.69KB 
+Installer File: 316.89KB 
+Archive File: 36.52MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 20.39 sec.
+PEAK PHP MEMORY USED: 60MB
+DONE PROCESSING => 20150219_maqtagatewaywebsite 2015-02-19 05:56:11
+ 
